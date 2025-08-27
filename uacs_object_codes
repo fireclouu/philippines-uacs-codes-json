@@ -1,0 +1,3074 @@
+{
+  "main": [
+    {
+      "code": "1",
+      "name": "Assets",
+      "children": [
+        {
+          "code": "1 01",
+          "name": "Cash ",
+          "children": [
+            {
+              "code": "1 01 01",
+              "name": "Cash on Hand",
+              "children": [
+                {
+                  "code": "1 01 01 010",
+                  "name": "Cash Local Treasury"
+                },
+                {
+                  "code": "1 01 01 020",
+                  "name": "Petty Cash"
+                }
+              ]
+            },
+            {
+              "code": "1 01 02",
+              "name": "Cash in Bank - Local Currency",
+              "children": [
+                {
+                  "code": "1 01 02 010",
+                  "name": "Cash in Bank - Local Currency, Current Account"
+                },
+                {
+                  "code": "1 01 02 020",
+                  "name": "Cash in Bank - Local Currency, Savings Account"
+                }
+              ]
+            },
+            {
+              "code": "1 01 03",
+              "name": "Cash in Bank - Foreign Currency",
+              "children": [
+                {
+                  "code": "1 01 03 010",
+                  "name": "Cash in Bank - Foreign Currency, Current Account"
+                },
+                {
+                  "code": "1 01 03 020",
+                  "name": "Cash in Bank - Foreign Currency, Savings Account"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 02",
+          "name": "Investments",
+          "children": [
+            {
+              "code": "1 02 01",
+              "name": "Investments in Time Deposits",
+              "children": [
+                {
+                  "code": "1 02 01 010",
+                  "name": "Cash in Bank -Local Currency, Time Deposits"
+                },
+                {
+                  "code": "1 02 01 020",
+                  "name": "Cash in Bank - Foreign Currency, Time Deposits"
+                },
+                {
+                  "code": "1 02 01 030",
+                  "name": "Treasury Bills"
+                }
+              ]
+            },
+            {
+              "code": "1 02 02",
+              "name": "Financial Assets at Fair Value Through Surplus or Deficit",
+              "children": [
+                {
+                  "code": "1 02 02 010",
+                  "name": "Financial Assets Held for Trading"
+                },
+                {
+                  "code": "1 02 02 020",
+                  "name": "Financial Assets Designated at Fair Value Through Surplus or Deficit"
+                }
+              ]
+            },
+            {
+              "code": "1 02 03",
+              "name": "Financial Assets - Held to Maturity",
+              "children": [
+                {
+                  "code": "1 02 03 010",
+                  "name": "Investments in Treasury Bills - Local"
+                },
+                {
+                  "code": "1 02 03 011",
+                  "name": "Allowance for Impairment - Investments in Treasury Bills - Local"
+                },
+                {
+                  "code": "1 02 03 020",
+                  "name": "Investments in Bonds-Local"
+                },
+                {
+                  "code": "1 02 03 021",
+                  "name": "Allowance for Impairment - Investments in Bonds - Local"
+                }
+              ]
+            },
+            {
+              "code": "1 02 04",
+              "name": "Financial Assets - Available for Sale",
+              "children": [
+                {
+                  "code": "1 02 04 010",
+                  "name": "Investments in Stocks"
+                },
+                {
+                  "code": "1 02 04 020",
+                  "name": "Investments in Bonds"
+                }
+              ]
+            },
+            {
+              "code": "1 02 05",
+              "name": "Financial Assets - Others",
+              "children": [
+                {
+                  "code": "1 02 05 010",
+                  "name": "Deposits on Letters of Credit"
+                },
+                {
+                  "code": "1 02 05 011",
+                  "name": "Allowance for Impairment - Deposits in Letters of Credit"
+                },
+                {
+                  "code": "1 02 05 020",
+                  "name": "Guaranty Deposits"
+                },
+                {
+                  "code": "1 02 05 021",
+                  "name": "Allowance for Impairment - Guaranty Deposits"
+                },
+                {
+                  "code": "1 02 05 990",
+                  "name": "Other Investments"
+                },
+                {
+                  "code": "1 02 05 991",
+                  "name": "Allowance for Impairment - Other Investments"
+                }
+              ]
+            },
+            {
+              "code": "1 02 06",
+              "name": "Investments in Joint Venture",
+              "children": [
+                {
+                  "code": "1 02 06 010",
+                  "name": "Investments in Joint Venture"
+                },
+                {
+                  "code": "1 02 06 011",
+                  "name": "Allowance for Impairment - Investments in Joint Venture"
+                }
+              ]
+            },
+            {
+              "code": "1 02 07",
+              "name": "Sinking Fund",
+              "children": [
+                {
+                  "code": "1 02 07 010",
+                  "name": "Sinking Fund"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 03",
+          "name": "Receivables",
+          "children": [
+            {
+              "code": "1 03 01",
+              "name": "Loans and Receivable Accounts",
+              "children": [
+                {
+                  "code": "1 03 01 010",
+                  "name": "Accounts Receivable"
+                },
+                {
+                  "code": "1 03 01 011",
+                  "name": "Allowance for Impairment - Accounts Receivable"
+                },
+                {
+                  "code": "1 03 01 020",
+                  "name": "Real Property Tax Receivable"
+                },
+                {
+                  "code": "1 03 01 021",
+                  "name": "Allowance for Impairment - RPT Receivable"
+                },
+                {
+                  "code": "1 03 01 030",
+                  "name": "Special Education Tax Receivable"
+                },
+                {
+                  "code": "1 03 01 031",
+                  "name": "Allowance for Impairment - SET Receivable"
+                },
+                {
+                  "code": "1 03 01 040",
+                  "name": "Notes Receivable"
+                },
+                {
+                  "code": "1 03 01 041",
+                  "name": "Allowance for Impairment - Notes Receivable"
+                },
+                {
+                  "code": "1 03 01 050",
+                  "name": "Loans Receivable - Government-Owned and/or Controlled Corporations"
+                },
+                {
+                  "code": "1 03 01 051",
+                  "name": "Allowance for Impairment - Loans Receivable - Government-Owned and/or Controlled Corporations"
+                },
+                {
+                  "code": "1 03 01 060",
+                  "name": "Loans Receivable - Local Government Units"
+                },
+                {
+                  "code": "1 03 01 061",
+                  "name": "Allowance for Impairment - Loans Receivable - Local Government Units"
+                },
+                {
+                  "code": "1 03 01 070",
+                  "name": "Interests Receivable"
+                },
+                {
+                  "code": "1 03 01 071",
+                  "name": "Allowance for Impairment - Interests Receivable"
+                },
+                {
+                  "code": "1 03 01 080",
+                  "name": "Dividends Receivable"
+                },
+                {
+                  "code": "1 03 01 081",
+                  "name": "Allowance for Impairment - Dividends Receivable"
+                },
+                {
+                  "code": "1 03 01 990",
+                  "name": "Loans Receivable - Others"
+                },
+                {
+                  "code": "1 03 01 991",
+                  "name": "Allowance for Impairment - Loans Receivable - Others"
+                }
+              ]
+            },
+            {
+              "code": "1 03 02",
+              "name": "Lease Receivables",
+              "children": [
+                {
+                  "code": "1 03 02 010",
+                  "name": "Operating Lease Receivable"
+                },
+                {
+                  "code": "1 03 02 011",
+                  "name": "Allowance for Impairment - Operating Lease Receivable"
+                },
+                {
+                  "code": "1 03 02 020",
+                  "name": "Finance Lease Receivable"
+                },
+                {
+                  "code": "1 03 02 021",
+                  "name": "Allowance for Impairment - Finance Lease Receivable"
+                }
+              ]
+            },
+            {
+              "code": "1 03 03",
+              "name": "Inter-Agency Receivables",
+              "children": [
+                {
+                  "code": "1 03 03 010",
+                  "name": "Due from National Government Agencies"
+                },
+                {
+                  "code": "1 03 03 011",
+                  "name": "Allowance for Impairment - Due from National Government Agencies"
+                },
+                {
+                  "code": "1 03 03 020",
+                  "name": "Due from Government-Owned and/or Controlled Corporations"
+                },
+                {
+                  "code": "1 03 03 021",
+                  "name": "Allowance for Impairment - Due from GOCCs"
+                },
+                {
+                  "code": "1 03 03 030",
+                  "name": "Due from Local Government Units"
+                },
+                {
+                  "code": "1 03 03 031",
+                  "name": "Allowance for Impairment - Due from LGUs"
+                },
+                {
+                  "code": "1 03 03 040",
+                  "name": "Due from Joint Venture"
+                },
+                {
+                  "code": "1 03 03 041",
+                  "name": "Allowance for Impairment - Due from Joint Venture"
+                }
+              ]
+            },
+            {
+              "code": "1 03 04",
+              "name": "Intra-Agency Receivables",
+              "children": [
+                {
+                  "code": "1 03 04 050",
+                  "name": "Due from Other Funds"
+                },
+                {
+                  "code": "1 03 04 060",
+                  "name": "Due from Special Accounts"
+                },
+                {
+                  "code": "1 03 04 070",
+                  "name": "Due from Local Economic Enterprise"
+                }
+              ]
+            },
+            {
+              "code": "1 03 05",
+              "name": "Advances",
+              "children": [
+                {
+                  "code": "1 03 05 010",
+                  "name": "Advances for Operating Expenses"
+                },
+                {
+                  "code": "1 03 05 020",
+                  "name": "Advances for Payroll"
+                },
+                {
+                  "code": "1 03 05 030",
+                  "name": "Advances to Special Disbursing Officer"
+                },
+                {
+                  "code": "1 03 05 040",
+                  "name": "Advances for Officers and Employees"
+                }
+              ]
+            },
+            {
+              "code": "1 03 06",
+              "name": "Other Receivables",
+              "children": [
+                {
+                  "code": "1 03 06 010",
+                  "name": "Receivables - Disallowances/Charges"
+                },
+                {
+                  "code": "1 03 06 011",
+                  "name": "Allowance for Impairment - Receivables- Disallowances/Charges"
+                },
+                {
+                  "code": "1 03 06 020",
+                  "name": "Due from Officers and Employees"
+                },
+                {
+                  "code": "1 03 06 021",
+                  "name": "Allowance for Impairment - Due from Officers and Employees"
+                },
+                {
+                  "code": "1 03 06 030",
+                  "name": "Due from Non-Government Organizations/People's Organizations"
+                },
+                {
+                  "code": "1 03 06 031",
+                  "name": "Allowance for Impairment - Due from Non-Government Organizations/People's Organizations"
+                },
+                {
+                  "code": "1 03 06 990",
+                  "name": "Other Receivables"
+                },
+                {
+                  "code": "1 03 06 991",
+                  "name": "Allowance for Impairment - Other Receivables"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 04",
+          "name": "Inventories",
+          "children": [
+            {
+              "code": "1 04 01",
+              "name": "Inventory Held for Sale",
+              "children": [
+                {
+                  "code": "1 04 01 010",
+                  "name": "Merchandise Inventory"
+                }
+              ]
+            },
+            {
+              "code": "1 04 02",
+              "name": "Inventory Held for Distribution",
+              "children": [
+                {
+                  "code": "1 04 02 010",
+                  "name": "Food Supplies for Distribution"
+                },
+                {
+                  "code": "1 04 02 020",
+                  "name": "Welfare Goods for Distribution"
+                },
+                {
+                  "code": "1 04 02 030",
+                  "name": "Drugs and Medicines for Distribution"
+                },
+                {
+                  "code": "1 04 02 040",
+                  "name": "Medical, Dental and Laboratory Supplies for Distribution"
+                },
+                {
+                  "code": "1 04 02 050",
+                  "name": "Agricultural and Marine Supplies for Distribution"
+                },
+                {
+                  "code": "1 04 02 060",
+                  "name": "Agricultural Produce for Distribution"
+                },
+                {
+                  "code": "1 04 02 070",
+                  "name": "Textbooks and Instructional Materials for Distribution"
+                },
+                {
+                  "code": "1 04 02 080",
+                  "name": "Construction Materials for Distribution"
+                },
+                {
+                  "code": "1 04 02 090",
+                  "name": "Property and Equipment for Distribution"
+                },
+                {
+                  "code": "1 04 02 990",
+                  "name": "Other Supplies and Materials for Distribution"
+                }
+              ]
+            },
+            {
+              "code": "1 04 03",
+              "name": "Inventory Held for Manufacturing",
+              "children": [
+                {
+                  "code": "1 04 03 010",
+                  "name": "Raw Materials Inventory"
+                },
+                {
+                  "code": "1 04 03 020",
+                  "name": "Work-in-Process Inventory"
+                },
+                {
+                  "code": "1 04 03 030",
+                  "name": "Finished Goods Inventory"
+                }
+              ]
+            },
+            {
+              "code": "1 04 04",
+              "name": "Inventory Held for Consumption",
+              "children": [
+                {
+                  "code": "1 04 04 010",
+                  "name": "Office Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 020",
+                  "name": "Accountable Forms, Plates and Stickers"
+                },
+                {
+                  "code": "1 04 04 030",
+                  "name": "Non-Accountable Forms Inventory"
+                },
+                {
+                  "code": "1 04 04 040",
+                  "name": "Animal/Zoological Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 050",
+                  "name": "Food Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 060",
+                  "name": "Drugs and Medicines Inventory"
+                },
+                {
+                  "code": "1 04 04 070",
+                  "name": "Medical, Dental and Laboratory Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 080",
+                  "name": "Fuel, Oil and Lubricants Inventory"
+                },
+                {
+                  "code": "1 04 04 090",
+                  "name": "Agricultural and Marine Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 100",
+                  "name": "Textbooks and Instructional Materials Inventory"
+                },
+                {
+                  "code": "1 04 04 110",
+                  "name": "Military, Police and Traffic Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 120",
+                  "name": "Chemical and Filtering Supplies Inventory"
+                },
+                {
+                  "code": "1 04 04 130",
+                  "name": "Construction Materials Inventory"
+                },
+                {
+                  "code": "1 04 04 990",
+                  "name": "Other Supplies and Materials Inventory"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 05",
+          "name": "Prepayments and Deferred Charges",
+          "children": [
+            {
+              "code": "1 05 01",
+              "name": "Prepayments",
+              "children": [
+                {
+                  "code": "1 05 01 010",
+                  "name": "Advances to Contractors"
+                },
+                {
+                  "code": "1 05 01 020",
+                  "name": "Prepaid Rent"
+                },
+                {
+                  "code": "1 05 01 030",
+                  "name": "Prepaid Registration"
+                },
+                {
+                  "code": "1 05 01 040",
+                  "name": "Prepaid Interest"
+                },
+                {
+                  "code": "1 05 01 050",
+                  "name": "Prepaid Insurance"
+                },
+                {
+                  "code": "1 05 01 990",
+                  "name": "Other Prepayments"
+                }
+              ]
+            },
+            {
+              "code": "1 05 02",
+              "name": "Deferred Charges",
+              "children": [
+                {
+                  "code": "1 05 02 010",
+                  "name": "Discount on Advance Payments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 06",
+          "name": "Investment Property",
+          "children": [
+            {
+              "code": "1 06 01",
+              "name": "Land and Buildings",
+              "children": [
+                {
+                  "code": "1 06 01 010",
+                  "name": "Investment Property, Land"
+                },
+                {
+                  "code": "1 06 01 011",
+                  "name": "Accumulated Impairment Losses - Investment Property, Land"
+                },
+                {
+                  "code": "1 06 01 020",
+                  "name": "Investment Property, Buildings"
+                },
+                {
+                  "code": "1 06 01 021",
+                  "name": "Accumulated Depreciation - Investment Property, Buildings"
+                },
+                {
+                  "code": "1 06 01 022",
+                  "name": "Accumulated Impairment Losses - Investment Property, Buildings"
+                },
+                {
+                  "code": "1 06 01 030",
+                  "name": "Construction in Progress - Investment Property, Buildings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 07",
+          "name": "Property, Plant and Equipment",
+          "children": [
+            {
+              "code": "1 07 01",
+              "name": "Land",
+              "children": [
+                {
+                  "code": "1 07 01 010",
+                  "name": "Land"
+                },
+                {
+                  "code": "1 07 01 011",
+                  "name": "Accumulated Impairment Losses - Land"
+                }
+              ]
+            },
+            {
+              "code": "1 07 02",
+              "name": "Land Improvements",
+              "children": [
+                {
+                  "code": "1 07 02 010",
+                  "name": "Land Improvements, Aquaculture Structures"
+                },
+                {
+                  "code": "1 07 02 011",
+                  "name": "Accumulated Depreciation - Land Improvements, Aquaculture Structures"
+                },
+                {
+                  "code": "1 07 02 012",
+                  "name": "Accumulated Impairment Losses - Land Improvements, Aquaculture Structures"
+                },
+                {
+                  "code": "1 07 02 990",
+                  "name": "Other Land Improvements"
+                },
+                {
+                  "code": "1 07 02 991",
+                  "name": "Accumulated Depreciation - Other Land Improvements"
+                },
+                {
+                  "code": "1 07 02 992",
+                  "name": "Accumulated Impairment Losses - Other Land Improvements"
+                }
+              ]
+            },
+            {
+              "code": "1 07 03",
+              "name": "Infrastructure Assets",
+              "children": [
+                {
+                  "code": "1 07 03 010",
+                  "name": "Road Networks"
+                },
+                {
+                  "code": "1 07 03 011",
+                  "name": "Accumulated Depreciation - Road Networks"
+                },
+                {
+                  "code": "1 07 03 012",
+                  "name": "Accumulated Impairment Losses - Road Networks"
+                },
+                {
+                  "code": "1 07 03 020",
+                  "name": "Flood Control Systems"
+                },
+                {
+                  "code": "1 07 03 021",
+                  "name": "Accumulated Depreciation - Flood Control Systems"
+                },
+                {
+                  "code": "1 07 03 022",
+                  "name": "Accumulated Impairment Losses - Flood Control Systems"
+                },
+                {
+                  "code": "1 07 03 030",
+                  "name": "Sewer Systems"
+                },
+                {
+                  "code": "1 07 03 031",
+                  "name": "Accumulated Depreciation - Sewer Systems"
+                },
+                {
+                  "code": "1 07 03 032",
+                  "name": "Accumulated Impairment Losses - Sewer Systems"
+                },
+                {
+                  "code": "1 07 03 040",
+                  "name": "Water Supply Systems"
+                },
+                {
+                  "code": "1 07 03 041",
+                  "name": "Accumulated Depreciation - Water Supply Systems"
+                },
+                {
+                  "code": "1 07 03 042",
+                  "name": "Accumulated Impairment Losses - Water Supply Systems"
+                },
+                {
+                  "code": "1 07 03 050",
+                  "name": "Power Supply Systems"
+                },
+                {
+                  "code": "1 07 03 051",
+                  "name": "Accumulated Depreciation - Power Supply Systems"
+                },
+                {
+                  "code": "1 07 03 052",
+                  "name": "Accumulated Impairment Losses - Power Supply Systems"
+                },
+                {
+                  "code": "1 07 03 060",
+                  "name": "Communication Networks"
+                },
+                {
+                  "code": "1 07 03 061",
+                  "name": "Accumulated Depreciation - Communication Networks"
+                },
+                {
+                  "code": "1 07 03 062",
+                  "name": "Accumulated Impairment Losses - Communication Networks"
+                },
+                {
+                  "code": "1 07 03 070",
+                  "name": "Seaport Systems"
+                },
+                {
+                  "code": "1 07 03 071",
+                  "name": "Accumulated Depreciation - Seaport Systems"
+                },
+                {
+                  "code": "1 07 03 072",
+                  "name": "Accumulated Impairment Losses - Seaport Systems"
+                },
+                {
+                  "code": "1 07 03 080",
+                  "name": "Airport Systems"
+                },
+                {
+                  "code": "1 07 03 081",
+                  "name": "Accumulated Depreciation - Airport Systems"
+                },
+                {
+                  "code": "1 07 03 082",
+                  "name": "Accumulated Impairment Losses - Airport Systems"
+                },
+                {
+                  "code": "1 07 03 090",
+                  "name": "Parks, Plazas and Monuments"
+                },
+                {
+                  "code": "1 07 03 091",
+                  "name": "Accumulated Depreciation - Parks, Plazas and Monuments"
+                },
+                {
+                  "code": "1 07 03 092",
+                  "name": "Accumulated Impairment Losses - Parks, Plazas and Monuments"
+                },
+                {
+                  "code": "1 07 03 990",
+                  "name": "Other Infrastructure Assets"
+                },
+                {
+                  "code": "1 07 03 991",
+                  "name": "Accumulated Depreciation - Other Infrastructure Assets"
+                },
+                {
+                  "code": "1 07 03 992",
+                  "name": "Accumulated Impairment Losses - Other Infrastructure Assets"
+                }
+              ]
+            },
+            {
+              "code": "1 07 04",
+              "name": "Buildings and Other Structures",
+              "children": [
+                {
+                  "code": "1 07 04 010",
+                  "name": "Buildings"
+                },
+                {
+                  "code": "1 07 04 011",
+                  "name": "Accumulated Depreciation - Buildings"
+                },
+                {
+                  "code": "1 07 04 012",
+                  "name": "Accumulated Impairment Losses - Buildings"
+                },
+                {
+                  "code": "1 07 04 020",
+                  "name": "School Buildings"
+                },
+                {
+                  "code": "1 07 04 021",
+                  "name": "Accumulated Depreciation - School Buildings"
+                },
+                {
+                  "code": "1 07 04 022",
+                  "name": "Accumulated Impairment Losses - School Buildings"
+                },
+                {
+                  "code": "1 07 04 030",
+                  "name": "Hospitals and Health Centers"
+                },
+                {
+                  "code": "1 07 04 031",
+                  "name": "Accumulated Depreciation - Hospitals and Health Centers"
+                },
+                {
+                  "code": "1 07 04 032",
+                  "name": "Accumulated Impairment Losses - Hospitals and Health Centers"
+                },
+                {
+                  "code": "1 07 04 040",
+                  "name": "Markets"
+                },
+                {
+                  "code": "1 07 04 041",
+                  "name": "Accumulated Depreciation - Markets"
+                },
+                {
+                  "code": "1 07 04 042",
+                  "name": "Accumulated Impairment Losses - Markets"
+                },
+                {
+                  "code": "1 07 04 050",
+                  "name": "Slaughterhouses"
+                },
+                {
+                  "code": "1 07 04 051",
+                  "name": "Accumulated Depreciation - Slaughterhouses"
+                },
+                {
+                  "code": "1 07 04 052",
+                  "name": "Accumulated Impairment Losses- Slaughterhouses"
+                },
+                {
+                  "code": "1 07 04 060",
+                  "name": "Hostels and Dormitories"
+                },
+                {
+                  "code": "1 07 04 061",
+                  "name": "Accumulated Depreciation - Hostels and Dormitories"
+                },
+                {
+                  "code": "1 07 04 062",
+                  "name": "Accumulated Impairment Losses - Hostels and Dormitories"
+                },
+                {
+                  "code": "1 07 04 990",
+                  "name": "Other Structures"
+                },
+                {
+                  "code": "1 07 04 991",
+                  "name": "Accumulated Depreciation - Other Structures"
+                },
+                {
+                  "code": "1 07 04 992",
+                  "name": "Accumulated Impairment Losses - Other Structures"
+                }
+              ]
+            },
+            {
+              "code": "1 07 05",
+              "name": "Machinery and Equipment",
+              "children": [
+                {
+                  "code": "1 07 05 010",
+                  "name": "Machinery"
+                },
+                {
+                  "code": "1 07 05 011",
+                  "name": "Accumulated Depreciation - Machinery"
+                },
+                {
+                  "code": "1 07 05 012",
+                  "name": "Accumulated Impairment Losses - Machinery"
+                },
+                {
+                  "code": "1 07 05 020",
+                  "name": "Office Equipment"
+                },
+                {
+                  "code": "1 07 05 021",
+                  "name": "Accumulated Depreciation - Office Equipment"
+                },
+                {
+                  "code": "1 07 05 022",
+                  "name": "Accumulated Impairment Losses - Office Equipment"
+                },
+                {
+                  "code": "1 07 05 030",
+                  "name": "Information and Communication Technology Equipment"
+                },
+                {
+                  "code": "1 07 05 031",
+                  "name": "Accumulated Depreciation - Information and Communication Technology Equipment"
+                },
+                {
+                  "code": "1 07 05 032",
+                  "name": "Accumulated Impairment Losses - Information and Communication Technology Equipment"
+                },
+                {
+                  "code": "1 07 05 040",
+                  "name": "Agricultural and Forestry Equipment"
+                },
+                {
+                  "code": "1 07 05 041",
+                  "name": "Accumulated Depreciation - Agricultural and Forestry Equipment"
+                },
+                {
+                  "code": "1 07 05 042",
+                  "name": "Accumulated Impairment Losses - Agricultural and Forestry Equipment"
+                },
+                {
+                  "code": "1 07 05 050",
+                  "name": "Marine and Fishery Equipment"
+                },
+                {
+                  "code": "1 07 05 051",
+                  "name": "Accumulated Depreciation - Marine and Fishery Equipment"
+                },
+                {
+                  "code": "1 07 05 052",
+                  "name": "Accumulated Impairment Losses - Marine and Fishery Equipment"
+                },
+                {
+                  "code": "1 07 05 060",
+                  "name": "Airport Equipment"
+                },
+                {
+                  "code": "1 07 05 061",
+                  "name": "Accumulated Depreciation - Airport Equipment"
+                },
+                {
+                  "code": "1 07 05 062",
+                  "name": "Accumulated Impairment Losses - Airport Equipment"
+                },
+                {
+                  "code": "1 07 05 070",
+                  "name": "Communication Equipment"
+                },
+                {
+                  "code": "1 07 05 071",
+                  "name": "Accumulated Depreciation - Communication Equipment"
+                },
+                {
+                  "code": "1 07 05 072",
+                  "name": "Accumulated Impairment Losses - Communication Equipment"
+                },
+                {
+                  "code": "1 07 05 080",
+                  "name": "Construction and Heavy Equipment"
+                },
+                {
+                  "code": "1 07 05 081",
+                  "name": "Accumulated Depreciation - Construction and Heavy Equipment"
+                },
+                {
+                  "code": "1 07 05 082",
+                  "name": "Accumulated Impairment Losses - Construction and Heavy Equipment"
+                },
+                {
+                  "code": "1 07 05 090",
+                  "name": "Disaster Response and Rescue Equipment"
+                },
+                {
+                  "code": "1 07 05 091",
+                  "name": "Accumulated Depreciation - Disaster Response and Rescue Equipment"
+                },
+                {
+                  "code": "1 07 05 092",
+                  "name": "Accumulated Impairment Losses - Disaster Response and Rescue Equipment"
+                },
+                {
+                  "code": "1 07 05 100",
+                  "name": "Military, Police and Security Equipment"
+                },
+                {
+                  "code": "1 07 05 101",
+                  "name": "Accumulated Depreciation - Military, Police and Security Equipment"
+                },
+                {
+                  "code": "1 07 05 102",
+                  "name": "Accumulated Impairment Losses - Military, Police and Security Equipment"
+                },
+                {
+                  "code": "1 07 05 110",
+                  "name": "Medical Equipment"
+                },
+                {
+                  "code": "1 07 05 111",
+                  "name": "Accumulated Depreciation - Medical Equipment"
+                },
+                {
+                  "code": "1 07 05 112",
+                  "name": "Accumulated Impairment Losses - Medical Equipment"
+                },
+                {
+                  "code": "1 07 05 120",
+                  "name": "Printing Equipment"
+                },
+                {
+                  "code": "1 07 05 121",
+                  "name": "Accumulated Depreciation - Printing Equipment"
+                },
+                {
+                  "code": "1 07 05 122",
+                  "name": "Accumulated Impairment Losses - Printing Equipment"
+                },
+                {
+                  "code": "1 07 05 130",
+                  "name": "Sports Equipment"
+                },
+                {
+                  "code": "1 07 05 131",
+                  "name": "Accumulated Depreciation - Sports Equipment"
+                },
+                {
+                  "code": "1 07 05 132",
+                  "name": "Accumulated Impairment Losses - Sports Equipment"
+                },
+                {
+                  "code": "1 07 05 140",
+                  "name": "Technical and Scientific Equipment"
+                },
+                {
+                  "code": "1 07 05 141",
+                  "name": "Accumulated Depreciation - Technical and Scientific Equipment"
+                },
+                {
+                  "code": "1 07 05 142",
+                  "name": "Accumulated Impairment Losses - Technical and Scientific Equipment"
+                },
+                {
+                  "code": "1 07 05 990",
+                  "name": "Other Machinery and Equipment"
+                },
+                {
+                  "code": "1 07 05 991",
+                  "name": "Accumulated Depreciation - Other Machinery and Equipment"
+                },
+                {
+                  "code": "1 07 05 992",
+                  "name": "Accumulated Impairment Losses - Other Machinery and Equipment"
+                }
+              ]
+            },
+            {
+              "code": "1 07 06",
+              "name": "Transportation Equipment",
+              "children": [
+                {
+                  "code": "1 07 06 010",
+                  "name": "Motor Vehicles"
+                },
+                {
+                  "code": "1 07 06 011",
+                  "name": "Accumulated Depreciation - Motor Vehicles"
+                },
+                {
+                  "code": "1 07 06 012",
+                  "name": "Accumulated Impairment Losses - Motor Vehicles"
+                },
+                {
+                  "code": "1 07 06 020",
+                  "name": "Trains"
+                },
+                {
+                  "code": "1 07 06 021",
+                  "name": "Accumulated Depreciation - Trains"
+                },
+                {
+                  "code": "1 07 06 022",
+                  "name": "Accumulated Impairment Losses - Trains"
+                },
+                {
+                  "code": "1 07 06 030",
+                  "name": "Aircrafts and Aircrafts Ground Equipment"
+                },
+                {
+                  "code": "1 07 06 031",
+                  "name": "Accumulated Depreciation - Aircrafts and Aircrafts Ground Equipment"
+                },
+                {
+                  "code": "1 07 06 032",
+                  "name": "Accumulated Impairment Losses - Aircrafts and Aircrafts Ground Equipment"
+                },
+                {
+                  "code": "1 07 06 040",
+                  "name": "Watercrafts"
+                },
+                {
+                  "code": "1 07 06 041",
+                  "name": "Accumulated Depreciation - Watercrafts"
+                },
+                {
+                  "code": "1 07 06 042",
+                  "name": "Accumulated Impairment Losses - Watercrafts"
+                },
+                {
+                  "code": "1 07 06 990",
+                  "name": "Other Transportation Equipment"
+                },
+                {
+                  "code": "1 07 06 991",
+                  "name": "Accumulated Depreciation - Other Transportation Equipment"
+                },
+                {
+                  "code": "1 07 06 992",
+                  "name": "Accumulated Impairment Losses - Other Transportation Equipment"
+                }
+              ]
+            },
+            {
+              "code": "1 07 07",
+              "name": "Furniture, Fixtures and Books",
+              "children": [
+                {
+                  "code": "1 07 07 010",
+                  "name": "Furniture and Fixtures"
+                },
+                {
+                  "code": "1 07 07 011",
+                  "name": "Accumulated Depreciation - Furniture and Fixtures"
+                },
+                {
+                  "code": "1 07 07 012",
+                  "name": "Accumulated Impairment Losses - Furniture and Fixtures"
+                },
+                {
+                  "code": "1 07 07 020",
+                  "name": "Books"
+                },
+                {
+                  "code": "1 07 07 021",
+                  "name": "Accumulated Depreciation - Books"
+                },
+                {
+                  "code": "1 07 07 022",
+                  "name": "Accumulated Impairment Losses - Books"
+                }
+              ]
+            },
+            {
+              "code": "1 07 08",
+              "name": "Leased Assets",
+              "children": [
+                {
+                  "code": "1 07 08 010",
+                  "name": "Leased Assets, Land"
+                },
+                {
+                  "code": "1 07 08 011",
+                  "name": "Accumulated Impairment Losses-Leased Assets, Land"
+                },
+                {
+                  "code": "1 07 08 020",
+                  "name": "Leased Assets, Buildings and Other Structures"
+                },
+                {
+                  "code": "1 07 08 021",
+                  "name": "Accumulated Depreciation - Leased Assets, Buildings and Other Structures"
+                },
+                {
+                  "code": "1 07 08 022",
+                  "name": "Accumulated Impairment Losses - Leased Assets, Buildings and Other Structures"
+                },
+                {
+                  "code": "1 07 08 030",
+                  "name": "Leased Assets, Machinery and Equipment"
+                },
+                {
+                  "code": "1 07 08 031",
+                  "name": "Accumulated Depreciation - Leased Assets, Machinery and Equipment"
+                },
+                {
+                  "code": "1 07 08 032",
+                  "name": "Accumulated Impairment Losses - Leased Assets, Machinery and Equipment"
+                },
+                {
+                  "code": "1 07 08 040",
+                  "name": "Leased Assets, Transportation Equipment"
+                },
+                {
+                  "code": "1 07 08 041",
+                  "name": "Accumulated Depreciation - Leased Assets, Transportation Equipment"
+                },
+                {
+                  "code": "1 07 08 042",
+                  "name": "Accumulated Impairment Losses - Leased Assets, Transportation Equipment"
+                },
+                {
+                  "code": "1 07 08 990",
+                  "name": "Other Leased Assets"
+                },
+                {
+                  "code": "1 07 08 991",
+                  "name": "Accumulated Depreciation - Other Leased Assets"
+                },
+                {
+                  "code": "1 07 08 992",
+                  "name": "Accumulated Impairment Losses - Other Leased Assets"
+                }
+              ]
+            },
+            {
+              "code": "1 07 09",
+              "name": "Leased Assets Improvements",
+              "children": [
+                {
+                  "code": "1 07 09 010",
+                  "name": "Leased Assets Improvements, Land"
+                },
+                {
+                  "code": "1 07 09 011",
+                  "name": "Accumulated Depreciation - Leased Assets Improvements, Land"
+                },
+                {
+                  "code": "1 07 09 012",
+                  "name": "Accumulated Impairment Losses - Leased Assets Improvements, Land"
+                },
+                {
+                  "code": "1 07 09 020",
+                  "name": "Leased Assets Improvements, Buildings"
+                },
+                {
+                  "code": "1 07 09 021",
+                  "name": "Accumulated Depreciation - Leased Assets Improvements, Buildings"
+                },
+                {
+                  "code": "1 07 09 022",
+                  "name": "Accumulated Impairment Losses - Leased Assets Improvements, Buildings"
+                },
+                {
+                  "code": "1 07 09 990",
+                  "name": "Other Leased Assets Improvements"
+                },
+                {
+                  "code": "1 07 09 991",
+                  "name": "Accumulated Depreciation - Other Leased Assets Improvements"
+                },
+                {
+                  "code": "1 07 09 992",
+                  "name": "Accumulated Impairment Losses - Other Leased Assets Improvements"
+                }
+              ]
+            },
+            {
+              "code": "1 07 10",
+              "name": "Construction in Progress",
+              "children": [
+                {
+                  "code": "1 07 10 010",
+                  "name": "Construction in Progress - Land Improvements"
+                },
+                {
+                  "code": "1 07 10 020",
+                  "name": "Construction in Progress - Infrastructure Assets"
+                },
+                {
+                  "code": "1 07 10 030",
+                  "name": "Construction in Progress - Buildings and Other Structures"
+                },
+                {
+                  "code": "1 07 10 040",
+                  "name": "Construction in Progress - Leased Assets"
+                },
+                {
+                  "code": "1 07 10 050",
+                  "name": "Construction in Progress - Leased Assets Improvements"
+                }
+              ]
+            },
+            {
+              "code": "1 07 11",
+              "name": "Service Concession Assets",
+              "children": [
+                {
+                  "code": "1 07 11 010",
+                  "name": "Service Concession Assets"
+                },
+                {
+                  "code": "1 07 11 011",
+                  "name": "Accumulated Depreciation - Service Concession Assets"
+                },
+                {
+                  "code": "1 07 11 012",
+                  "name": "Accumulated Impairment Losses - Service Concession Assets"
+                }
+              ]
+            },
+            {
+              "code": "1 07 99",
+              "name": "Other Property, Plant and Equipment",
+              "children": [
+                {
+                  "code": "1 07 99 010",
+                  "name": "Work/Zoo Animals"
+                },
+                {
+                  "code": "1 07 99 011",
+                  "name": "Accumulated Depreciation - Work/Zoo Animals"
+                },
+                {
+                  "code": "1 07 99 012",
+                  "name": "Accumulated Impairment Losses - Work/Zoo Animals"
+                },
+                {
+                  "code": "1 07 99 990",
+                  "name": "Other Property, Plant and Equipment"
+                },
+                {
+                  "code": "1 07 99 991",
+                  "name": "Accumulated Depreciation - Other Property, Plant and Equipment"
+                },
+                {
+                  "code": "1 07 99 992",
+                  "name": "Accumulated Impairment Losses - Other Property, Plant and Equipment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 08",
+          "name": "Biological Assets",
+          "children": [
+            {
+              "code": "1 08 01",
+              "name": "Bearer Biological Assets",
+              "children": [
+                {
+                  "code": "1 08 01 010",
+                  "name": "Breeding Stocks"
+                },
+                {
+                  "code": "1 08 01 020",
+                  "name": "Plants and Trees"
+                },
+                {
+                  "code": "1 08 01 030",
+                  "name": "Aquaculture"
+                },
+                {
+                  "code": "1 08 01 990",
+                  "name": "Other Bearer Biological Assets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "1 09",
+          "name": "Intangible Assets",
+          "children": [
+            {
+              "code": "1 09 01",
+              "name": "Intangible Assets",
+              "children": [
+                {
+                  "code": "1 09 01 010",
+                  "name": "Patents/Copyrights"
+                },
+                {
+                  "code": "1 09 01 011",
+                  "name": "Accumulated Amortization - Patents/Copyrights"
+                },
+                {
+                  "code": "1 09 01 012",
+                  "name": "Accumulated Impairment - Patents/Copyrights"
+                },
+                {
+                  "code": "1 09 01 020",
+                  "name": "Computer Software"
+                },
+                {
+                  "code": "1 09 01 021",
+                  "name": "Accumulated Amortization - Computer Software"
+                },
+                {
+                  "code": "1 09 01 022",
+                  "name": "Accumulated Impairment - Computer Software"
+                },
+                {
+                  "code": "1 09 01 990",
+                  "name": "Other Intangible Assets"
+                },
+                {
+                  "code": "1 09 01 991",
+                  "name": "Accumulated Amortization - Other Intangible Assets"
+                },
+                {
+                  "code": "1 09 01 992",
+                  "name": "Accumulated Impairment - Other Intangible Assets"
+                }
+              ]
+            },
+            {
+              "code": "1 09 02",
+              "name": "Service Concession Assets - Intangible Assets",
+              "children": [
+                {
+                  "code": "1 09 02 010",
+                  "name": "Service Concession Assets - Intangible Assets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2",
+      "name": "Liabilities",
+      "children": [
+        {
+          "code": "2 01",
+          "name": "Financial Liabilities",
+          "children": [
+            {
+              "code": "2 01 01",
+              "name": "Payables",
+              "children": [
+                {
+                  "code": "2 01 01 010",
+                  "name": "Accounts Payable"
+                },
+                {
+                  "code": "2 01 01 020",
+                  "name": "Due to Officers and Employees"
+                },
+                {
+                  "code": "2 01 01 040",
+                  "name": "Notes Payable"
+                },
+                {
+                  "code": "2 01 01 050",
+                  "name": "Interest Payable"
+                },
+                {
+                  "code": "2 01 01 060",
+                  "name": "Operating Lease Payable"
+                },
+                {
+                  "code": "2 01 01 070",
+                  "name": "Finance Lease Payable"
+                },
+                {
+                  "code": "2 01 01 080",
+                  "name": "Awards and Rewards Payable"
+                },
+                {
+                  "code": "2 01 01 090",
+                  "name": "Service Concession Arrangement Payable"
+                },
+                {
+                  "code": "2 01 01 100",
+                  "name": "Pension Benefits Payable"
+                },
+                {
+                  "code": "2 01 01 110",
+                  "name": "Leave Benefits Payable"
+                },
+                {
+                  "code": "2 01 01 120",
+                  "name": "Retirement Gratuity Payable"
+                }
+              ]
+            },
+            {
+              "code": "2 01 02",
+              "name": "Bills/Bonds/Loans Payable",
+              "children": [
+                {
+                  "code": "2 01 02 020",
+                  "name": "Bonds Payable - Domestic"
+                },
+                {
+                  "code": "2 01 02 021",
+                  "name": "Discount on Bonds Payable - Domestic"
+                },
+                {
+                  "code": "2 01 02 022",
+                  "name": "Premium on Bonds Payable - Domestic"
+                },
+                {
+                  "code": "2 01 02 040",
+                  "name": "Loans Payable - Domestic"
+                },
+                {
+                  "code": "2 01 02 050",
+                  "name": "Loans Payable - Foreign"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 02",
+          "name": "Inter-Agency Payables",
+          "children": [
+            {
+              "code": "2 02 01",
+              "name": "Inter-Agency Payables",
+              "children": [
+                {
+                  "code": "2 02 01 010",
+                  "name": "Due to BIR"
+                },
+                {
+                  "code": "2 02 01 020",
+                  "name": "Due to GSIS"
+                },
+                {
+                  "code": "2 02 01 030",
+                  "name": "Due to Pag-IBIG"
+                },
+                {
+                  "code": "2 02 01 040",
+                  "name": "Due to PhilHealth"
+                },
+                {
+                  "code": "2 02 01 050",
+                  "name": "Due to NGAs"
+                },
+                {
+                  "code": "2 02 01 060",
+                  "name": "Due to GOCCs"
+                },
+                {
+                  "code": "2 02 01 070",
+                  "name": "Due to LGUs"
+                },
+                {
+                  "code": "2 02 01 080",
+                  "name": "Due to Joint Venture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 03",
+          "name": "Intra-Agency Payables",
+          "children": [
+            {
+              "code": "2 03 01",
+              "name": "Intra-Agency Payables",
+              "children": [
+                {
+                  "code": "2 03 01 010",
+                  "name": "Due to Other Funds"
+                },
+                {
+                  "code": "2 03 01 020",
+                  "name": "Due to Special Accounts"
+                },
+                {
+                  "code": "2 03 01 030",
+                  "name": "Due to Local Economic Enterprises"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 04",
+          "name": "Trust Liabilities",
+          "children": [
+            {
+              "code": "2 04 01",
+              "name": "Trust Liabilities",
+              "children": [
+                {
+                  "code": "2 04 01 010",
+                  "name": "Trust Liabilities"
+                },
+                {
+                  "code": "2 04 01 020",
+                  "name": "Trust Liabilities - Disaster Risk Reduction and Management Fund"
+                },
+                {
+                  "code": "2 04 01 030",
+                  "name": "Bail Bonds Payable"
+                },
+                {
+                  "code": "2 04 01 040",
+                  "name": "Guaranty/Security Deposits Payable"
+                },
+                {
+                  "code": "2 04 01 050",
+                  "name": "Customers' Deposits Payable"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 05",
+          "name": "Deferred Credits/Unearned Income",
+          "children": [
+            {
+              "code": "2 05 01",
+              "name": "Deferred Credits",
+              "children": [
+                {
+                  "code": "2 05 01 010",
+                  "name": "Deferred Real Property Tax"
+                },
+                {
+                  "code": "2 05 01 020",
+                  "name": "Deferred Special Education Tax"
+                },
+                {
+                  "code": "2 05 01 030",
+                  "name": "Deferred Finance Lease Revenue"
+                },
+                {
+                  "code": "2 05 01 040",
+                  "name": "Deferred Service Concession Revenue"
+                },
+                {
+                  "code": "2 05 01 050",
+                  "name": "Unearned Revenue - Investment Property"
+                },
+                {
+                  "code": "2 05 01 990",
+                  "name": "Other Deferred Credits"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 06",
+          "name": "Provisions",
+          "children": [
+            {
+              "code": "2 06 01",
+              "name": "Provisions",
+              "children": [
+                {
+                  "code": "2 06 01 040",
+                  "name": "Termination Benefits"
+                },
+                {
+                  "code": "2 06 01 990",
+                  "name": "Other Provisions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2 99",
+          "name": "Other Payables",
+          "children": [
+            {
+              "code": "2 99 99",
+              "name": "Other Payables",
+              "children": [
+                {
+                  "code": "2 99 99 990",
+                  "name": "Other Payables"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3",
+      "name": "Equity",
+      "children": [
+        {
+          "code": "3 01",
+          "name": "Government Equity",
+          "children": [
+            {
+              "code": "3 01 01",
+              "name": "Government Equity",
+              "children": [
+                {
+                  "code": "3 01 01 010",
+                  "name": "Government Equity"
+                },
+                {
+                  "code": "3 01 01 020",
+                  "name": "Prior Period Adjustment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3 02",
+          "name": "Intermediate Accounts",
+          "children": [
+            {
+              "code": "3 02 01",
+              "name": "Intermediate Accounts",
+              "children": [
+                {
+                  "code": "3 02 01 010",
+                  "name": "Income and Expense Summary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3 03",
+          "name": "Equity in Joint Venture",
+          "children": [
+            {
+              "code": "3 03 01",
+              "name": "Equity in Joint Venture",
+              "children": [
+                {
+                  "code": "3 03 01 010",
+                  "name": "Equity in Joint Venture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3 04",
+          "name": "Unrealized Gain/(Loss)",
+          "children": [
+            {
+              "code": "3 04 01",
+              "name": "Unrealized Gain/(Loss)",
+              "children": [
+                {
+                  "code": "3 04 01 010",
+                  "name": "Unrealized Gain/(Loss) from Changes in the Fair Value of Financial Assets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4",
+      "name": "Income",
+      "children": [
+        {
+          "code": "4 01",
+          "name": "Tax Revenue",
+          "children": [
+            {
+              "code": "4 01 01",
+              "name": "Tax Revenue - Individual and Corporation",
+              "children": [
+                {
+                  "code": "4 01 01 020",
+                  "name": "Professional Tax"
+                },
+                {
+                  "code": "4 01 01 050",
+                  "name": "Community Tax"
+                }
+              ]
+            },
+            {
+              "code": "4 01 02",
+              "name": "Tax Revenue - Property",
+              "children": [
+                {
+                  "code": "4 01 02 040",
+                  "name": "Real Property Tax- Basic"
+                },
+                {
+                  "code": "4 01 02 041",
+                  "name": "Discount on Real Property Tax- Basic"
+                },
+                {
+                  "code": "4 01 02 050",
+                  "name": "Special Education Tax"
+                },
+                {
+                  "code": "4 01 02 051",
+                  "name": "Discount on Special Education Tax"
+                },
+                {
+                  "code": "4 01 02 060",
+                  "name": "Special Levy on Idle Lands"
+                },
+                {
+                  "code": "4 01 02 070",
+                  "name": "Special Levy on Lands Benefited by Public Works Projects"
+                },
+                {
+                  "code": "4 01 02 080",
+                  "name": "Real Property Transfer Tax"
+                }
+              ]
+            },
+            {
+              "code": "4 01 03",
+              "name": "Tax Revenue - Goods and Services",
+              "children": [
+                {
+                  "code": "4 01 03 030",
+                  "name": "Business Tax"
+                },
+                {
+                  "code": "4 01 03 040",
+                  "name": "Tax on Sand, Gravel and Other Quarry Products"
+                },
+                {
+                  "code": "4 01 03 050",
+                  "name": "Tax on Delivery Trucks and Vans"
+                },
+                {
+                  "code": "4 01 03 060",
+                  "name": "Amusement Tax"
+                },
+                {
+                  "code": "4 01 03 070",
+                  "name": "Franchise Tax"
+                },
+                {
+                  "code": "4 01 03 080",
+                  "name": "Printing and Publication Tax"
+                }
+              ]
+            },
+            {
+              "code": "4 01 04",
+              "name": "Tax Revenue - Others",
+              "children": [
+                {
+                  "code": "4 01 04 990",
+                  "name": "Other Taxes"
+                }
+              ]
+            },
+            {
+              "code": "4 01 05",
+              "name": "Tax Revenue - Fines and Penalties",
+              "children": [
+                {
+                  "code": "4 01 05 010",
+                  "name": "Tax Revenue - Fines and Penalties - Taxes on Individual and Corporation"
+                },
+                {
+                  "code": "4 01 05 020",
+                  "name": "Tax Revenue - Fines and Penalties - Property Taxes"
+                },
+                {
+                  "code": "4 01 05 030",
+                  "name": "Tax Revenue - Fines and Penalties - Taxes on Goods and Services"
+                },
+                {
+                  "code": "4 01 05 040",
+                  "name": "Tax Revenue - Fines and Penalties - Other Taxes"
+                }
+              ]
+            },
+            {
+              "code": "4 01 06",
+              "name": "Share from National Taxes",
+              "children": [
+                {
+                  "code": "4 01 06 010",
+                  "name": "Share from Internal Revenue Collections (IRA)"
+                },
+                {
+                  "code": "4 01 06 020",
+                  "name": "Share from Expanded Value Added Tax"
+                },
+                {
+                  "code": "4 01 06 030",
+                  "name": "Share from National Wealth"
+                },
+                {
+                  "code": "4 01 06 040",
+                  "name": "Share from Tobacco Excise Tax (RA 7171 and 8240)"
+                },
+                {
+                  "code": "4 01 06 050",
+                  "name": "Share from Economic Zones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 02",
+          "name": "Service and Business Income",
+          "children": [
+            {
+              "code": "4 02 01",
+              "name": "Service Income",
+              "children": [
+                {
+                  "code": "4 02 01 010",
+                  "name": "Permit Fees"
+                },
+                {
+                  "code": "4 02 01 020",
+                  "name": "Registration Fees"
+                },
+                {
+                  "code": "4 02 01 030",
+                  "name": "Registration Plates, Tags and Stickers Fees"
+                },
+                {
+                  "code": "4 02 01 040",
+                  "name": "Clearance and Certification Fees"
+                },
+                {
+                  "code": "4 02 01 070",
+                  "name": "Supervision and Regulation Enforcement Fees"
+                },
+                {
+                  "code": "4 02 01 100",
+                  "name": "Inspection Fees"
+                },
+                {
+                  "code": "4 02 01 110",
+                  "name": "Verification and Authentication Fees"
+                },
+                {
+                  "code": "4 02 01 130",
+                  "name": "Processing Fees"
+                },
+                {
+                  "code": "4 02 01 140",
+                  "name": "Occupation Fees"
+                },
+                {
+                  "code": "4 02 01 150",
+                  "name": "Fishery Rentals, Fees and Charges"
+                },
+                {
+                  "code": "4 02 01 160",
+                  "name": "Fees for Sealing and Licensing of Weights and Measures"
+                },
+                {
+                  "code": "4 02 01 980",
+                  "name": "Fines and Penalties - Service Income"
+                },
+                {
+                  "code": "4 02 01 990",
+                  "name": "Other Service Income"
+                }
+              ]
+            },
+            {
+              "code": "4 02 02",
+              "name": "Business Income",
+              "children": [
+                {
+                  "code": "4 02 02 010",
+                  "name": "School Fees"
+                },
+                {
+                  "code": "4 02 02 020",
+                  "name": "Affiliation Fees"
+                },
+                {
+                  "code": "4 02 02 040",
+                  "name": "Seminar/Training Fees"
+                },
+                {
+                  "code": "4 02 02 050",
+                  "name": "Rent Income"
+                },
+                {
+                  "code": "4 02 02 060",
+                  "name": "Communication Network Fees"
+                },
+                {
+                  "code": "4 02 02 070",
+                  "name": "Transportation System Fees"
+                },
+                {
+                  "code": "4 02 02 080",
+                  "name": "Road Network Fees"
+                },
+                {
+                  "code": "4 02 02 090",
+                  "name": "Waterworks System Fees"
+                },
+                {
+                  "code": "4 02 02 100",
+                  "name": "Power Supply System Fees"
+                },
+                {
+                  "code": "4 02 02 110",
+                  "name": "Seaport System Fees"
+                },
+                {
+                  "code": "4 02 02 120",
+                  "name": "Parking Fees"
+                },
+                {
+                  "code": "4 02 02 130",
+                  "name": "Receipts from Operation of Hostels/Dormitories and Other Like Facilities"
+                },
+                {
+                  "code": "4 02 02 140",
+                  "name": "Receipts from Market Operations"
+                },
+                {
+                  "code": "4 02 02 150",
+                  "name": "Receipts from Slaughterhouse Operation"
+                },
+                {
+                  "code": "4 02 02 160",
+                  "name": "Receipts from Cemetery Operations"
+                },
+                {
+                  "code": "4 02 02 170",
+                  "name": "Receipts from Printing and Publication"
+                },
+                {
+                  "code": "4 02 02 180",
+                  "name": "Sales Revenue"
+                },
+                {
+                  "code": "4 02 02 181",
+                  "name": "Sales Discounts"
+                },
+                {
+                  "code": "4 02 02 190",
+                  "name": "Garbage Fees"
+                },
+                {
+                  "code": "4 02 02 200",
+                  "name": "Hospital Fees"
+                },
+                {
+                  "code": "4 02 02 210",
+                  "name": "Dividend Income"
+                },
+                {
+                  "code": "4 02 02 220",
+                  "name": "Interest Income"
+                },
+                {
+                  "code": "4 02 02 230",
+                  "name": "Service Concession Revenue"
+                },
+                {
+                  "code": "4 02 02 240",
+                  "name": "Other Service Concession Revenue"
+                },
+                {
+                  "code": "4 02 02 250",
+                  "name": "Lease Revenue"
+                },
+                {
+                  "code": "4 02 02 260",
+                  "name": "Share in the Profit of Joint Venture"
+                },
+                {
+                  "code": "4 02 02 980",
+                  "name": "Fines and Penalties - Business Income"
+                },
+                {
+                  "code": "4 02 02 990",
+                  "name": "Other Business Income"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 03",
+          "name": "Transfers, Assistance and Subsidy",
+          "children": [
+            {
+              "code": "4 03 01",
+              "name": "Assistance and Subsidy",
+              "children": [
+                {
+                  "code": "4 03 01 010",
+                  "name": "Subsidy from National Government"
+                },
+                {
+                  "code": "4 03 01 020",
+                  "name": "Subsidy from Local Government Units"
+                },
+                {
+                  "code": "4 03 01 030",
+                  "name": "Subsidy from Government-Owned and/or Controlled Corporations"
+                },
+                {
+                  "code": "4 03 01 040",
+                  "name": "Subsidy from Other Funds"
+                },
+                {
+                  "code": "4 03 01 050",
+                  "name": "Subsidy from General Fund Proper/Other Special Accounts"
+                },
+                {
+                  "code": "4 03 01 060",
+                  "name": "Subsidy from Other Local Economic Enterprise"
+                }
+              ]
+            },
+            {
+              "code": "4 03 02",
+              "name": "Transfers",
+              "children": [
+                {
+                  "code": "4 03 02 010",
+                  "name": "Transfers from General Fund of LGU Counterpart/Equity Share"
+                },
+                {
+                  "code": "4 03 02 020",
+                  "name": "Transfers from General Fund of Unspent DRRMF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 04",
+          "name": "Shares, Grants and Donations",
+          "children": [
+            {
+              "code": "4 04 01",
+              "name": "Share",
+              "children": [
+                {
+                  "code": "4 04 01 010",
+                  "name": "Share from PAGCOR"
+                },
+                {
+                  "code": "4 04 01 020",
+                  "name": "Share from PCSO"
+                }
+              ]
+            },
+            {
+              "code": "4 04 02",
+              "name": "Grants and Donations",
+              "children": [
+                {
+                  "code": "4 04 02 010",
+                  "name": "Grants and Donations in Cash"
+                },
+                {
+                  "code": "4 04 02 020",
+                  "name": "Grants and Donations in Kind"
+                },
+                {
+                  "code": "4 04 02 030",
+                  "name": "Grants from Concessionary loans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 05",
+          "name": "Gains",
+          "children": [
+            {
+              "code": "4 05 01",
+              "name": "Gains",
+              "children": [
+                {
+                  "code": "4 05 01 010",
+                  "name": "Gain from Changes in Fair Value of Financial Instruments"
+                },
+                {
+                  "code": "4 05 01 020",
+                  "name": "Gain on Foreign Exchange (FOREX)"
+                },
+                {
+                  "code": "4 05 01 030",
+                  "name": "Gain on Sale of Investments"
+                },
+                {
+                  "code": "4 05 01 040",
+                  "name": "Gain on Sale of Investment Property"
+                },
+                {
+                  "code": "4 05 01 050",
+                  "name": "Gain on Sale of Property, Plant and Equipment"
+                },
+                {
+                  "code": "4 05 01 060",
+                  "name": "Gain on Initial Recognition of Biological Assets"
+                },
+                {
+                  "code": "4 05 01 070",
+                  "name": "Gain on Sale of Biological Assets"
+                },
+                {
+                  "code": "4 05 01 080",
+                  "name": "Gain from Changes in Fair Value Less Cost to Sell of Biological Assets Due to Physical Change"
+                },
+                {
+                  "code": "4 05 01 090",
+                  "name": "Gain from Changes in Fair Value Less Cost to Sell of Biological Assets Due to Price Change"
+                },
+                {
+                  "code": "4 05 01 100",
+                  "name": "Gain from Initial Recognition of Agricultural Produce"
+                },
+                {
+                  "code": "4 05 01 110",
+                  "name": "Gain on Sale of Intangible Assets"
+                },
+                {
+                  "code": "4 05 01 120",
+                  "name": "Reversal of Impairment Losses"
+                },
+                {
+                  "code": "4 05 01 990",
+                  "name": "Other Gains"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 06",
+          "name": "Miscellaneous Income",
+          "children": [
+            {
+              "code": "4 06 01",
+              "name": "Miscellaneous Income",
+              "children": [
+                {
+                  "code": "4 06 01 010",
+                  "name": "Miscellaneous Income"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4 07",
+          "name": "Other Non-Operating Income",
+          "children": [
+            {
+              "code": "4 07 01",
+              "name": "Sale of Assets",
+              "children": [
+                {
+                  "code": "4 07 01 010",
+                  "name": "Sale of Garnished/Confiscated/Abandoned/Seized Goods and Properties"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5",
+      "name": "Expenses",
+      "children": [
+        {
+          "code": "5 01",
+          "name": "Personnel Services",
+          "children": [
+            {
+              "code": "5 01 01",
+              "name": "Salaries and Wages",
+              "children": [
+                {
+                  "code": "5 01 01 010",
+                  "name": "Salaries and Wages - Regular"
+                },
+                {
+                  "code": "5 01 01 020",
+                  "name": "Salaries and Wages - Casual/Contractual"
+                }
+              ]
+            },
+            {
+              "code": "5 01 02",
+              "name": "Other Compensation",
+              "children": [
+                {
+                  "code": "5 01 02 010",
+                  "name": "Personal Economic Relief Allowance (PERA)"
+                },
+                {
+                  "code": "5 01 02 020",
+                  "name": "Representation Allowance (RA)"
+                },
+                {
+                  "code": "5 01 02 030",
+                  "name": "Transportation Allowance (TA)"
+                },
+                {
+                  "code": "5 01 02 040",
+                  "name": "Clothing/Uniform Allowance"
+                },
+                {
+                  "code": "5 01 02 050",
+                  "name": "Subsistence Allowance"
+                },
+                {
+                  "code": "5 01 02 060",
+                  "name": "Laundry Allowance"
+                },
+                {
+                  "code": "5 01 02 070",
+                  "name": "Quarters Allowance"
+                },
+                {
+                  "code": "5 01 02 080",
+                  "name": "Productivity Incentive Allowance"
+                },
+                {
+                  "code": "5 01 02 090",
+                  "name": "Overseas Allowance"
+                },
+                {
+                  "code": "5 01 02 100",
+                  "name": "Honoraria"
+                },
+                {
+                  "code": "5 01 02 110",
+                  "name": "Hazard Pay"
+                },
+                {
+                  "code": "5 01 02 120",
+                  "name": "Longevity Pay"
+                },
+                {
+                  "code": "5 01 02 130",
+                  "name": "Overtime and Night Pay"
+                },
+                {
+                  "code": "5 01 02 140",
+                  "name": "Year End Bonus"
+                },
+                {
+                  "code": "5 01 02 150",
+                  "name": "Cash Gift"
+                },
+                {
+                  "code": "5 01 02 990",
+                  "name": "Other Bonuses and Allowances"
+                }
+              ]
+            },
+            {
+              "code": "5 01 03",
+              "name": "Personnel Benefit Contributions",
+              "children": [
+                {
+                  "code": "5 01 03 010",
+                  "name": "Retirement and Life Insurance Premiums"
+                },
+                {
+                  "code": "5 01 03 020",
+                  "name": "Pag-IBIG Contributions"
+                },
+                {
+                  "code": "5 01 03 030",
+                  "name": "PhilHealth Contributions"
+                },
+                {
+                  "code": "5 01 03 040",
+                  "name": "Employees Compensation Insurance Premiums"
+                },
+                {
+                  "code": "5 01 03 050",
+                  "name": "Provident/Welfare Fund Contributions"
+                }
+              ]
+            },
+            {
+              "code": "5 01 04",
+              "name": "Other Personnel Benefits",
+              "children": [
+                {
+                  "code": "5 01 04 010",
+                  "name": "Pension Benefits"
+                },
+                {
+                  "code": "5 01 04 020",
+                  "name": "Retirement Gratuity"
+                },
+                {
+                  "code": "5 01 04 030",
+                  "name": "Terminal Leave Benefits"
+                },
+                {
+                  "code": "5 01 04 990",
+                  "name": "Other Personnel Benefits"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "5 02",
+          "name": "Maintenance and Other Operating Expenses",
+          "children": [
+            {
+              "code": "5 02 01",
+              "name": "Traveling Expenses",
+              "children": [
+                {
+                  "code": "5 02 01 010",
+                  "name": "Traveling Expenses - Local"
+                },
+                {
+                  "code": "5 02 01 020",
+                  "name": "Traveling Expenses - Foreign"
+                }
+              ]
+            },
+            {
+              "code": "5 02 02",
+              "name": "Training and Scholarship Expenses",
+              "children": [
+                {
+                  "code": "5 02 02 010",
+                  "name": "Training Expenses"
+                },
+                {
+                  "code": "5 02 02 020",
+                  "name": "Scholarship Grants/Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 03",
+              "name": "Supplies and Materials Expenses",
+              "children": [
+                {
+                  "code": "5 02 03 010",
+                  "name": "Office Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 020",
+                  "name": "Accountable Forms Expenses"
+                },
+                {
+                  "code": "5 02 03 030",
+                  "name": "Non-Accountable Forms Expenses"
+                },
+                {
+                  "code": "5 02 03 040",
+                  "name": "Animal/Zoological Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 050",
+                  "name": "Food Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 060",
+                  "name": "Welfare Goods Expenses"
+                },
+                {
+                  "code": "5 02 03 070",
+                  "name": "Drugs and Medicines Expenses"
+                },
+                {
+                  "code": "5 02 03 080",
+                  "name": "Medical, Dental and Laboratory Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 090",
+                  "name": "Fuel, Oil and Lubricants Expenses"
+                },
+                {
+                  "code": "5 02 03 100",
+                  "name": "Agricultural and Marine Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 110",
+                  "name": "Textbooks and Instructional Materials Expenses"
+                },
+                {
+                  "code": "5 02 03 120",
+                  "name": "Military, Police and Traffic Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 130",
+                  "name": "Chemical and Filtering Supplies Expenses"
+                },
+                {
+                  "code": "5 02 03 990",
+                  "name": "Other Supplies and Materials Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 04",
+              "name": "Utility Expenses",
+              "children": [
+                {
+                  "code": "5 02 04 010",
+                  "name": "Water Expenses"
+                },
+                {
+                  "code": "5 02 04 020",
+                  "name": "Electricity Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 05",
+              "name": "Communication Expenses",
+              "children": [
+                {
+                  "code": "5 02 05 010",
+                  "name": "Postage and Courier Services"
+                },
+                {
+                  "code": "5 02 05 020",
+                  "name": "Telephone Expenses"
+                },
+                {
+                  "code": "5 02 05 030",
+                  "name": "Internet Subscription Expenses"
+                },
+                {
+                  "code": "5 02 05 040",
+                  "name": "Cable, Satellite, Telegraph and Radio Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 06",
+              "name": "Awards/Rewards and Prizes",
+              "children": [
+                {
+                  "code": "5 02 06 010",
+                  "name": "Awards/Rewards Expenses"
+                },
+                {
+                  "code": "5 02 06 020",
+                  "name": "Prizes"
+                }
+              ]
+            },
+            {
+              "code": "5 02 07",
+              "name": "Survey, Research, Exploration and Development Expenses",
+              "children": [
+                {
+                  "code": "5 02 07 010",
+                  "name": "Survey Expenses"
+                },
+                {
+                  "code": "5 02 07 020",
+                  "name": "Research, Exploration and Development Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 08",
+              "name": "Demolition/Relocation and Desilting/Dredging Expenses",
+              "children": [
+                {
+                  "code": "5 02 08 010",
+                  "name": "Demolition and Relocation Expenses"
+                },
+                {
+                  "code": "5 02 08 020",
+                  "name": "Desilting and Dredging Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 09",
+              "name": "Generation, Transmission and Distribution Expenses",
+              "children": [
+                {
+                  "code": "5 02 09 010",
+                  "name": "Generation, Transmission and Distribution Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 10",
+              "name": "Confidential, Intelligence and Extraordinary Expenses",
+              "children": [
+                {
+                  "code": "5 02 10 010",
+                  "name": "Confidential Expenses"
+                },
+                {
+                  "code": "5 02 10 020",
+                  "name": "Intelligence Expenses"
+                },
+                {
+                  "code": "5 02 10 030",
+                  "name": "Extraordinary and Miscellaneous Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 11",
+              "name": "Professional Services",
+              "children": [
+                {
+                  "code": "5 02 11 010",
+                  "name": "Legal Services"
+                },
+                {
+                  "code": "5 02 11 020",
+                  "name": "Auditing Services"
+                },
+                {
+                  "code": "5 02 11 030",
+                  "name": "Consultancy Services"
+                },
+                {
+                  "code": "5 02 11 990",
+                  "name": "Other Professional Services"
+                }
+              ]
+            },
+            {
+              "code": "5 02 12",
+              "name": "General Services",
+              "children": [
+                {
+                  "code": "5 02 12 010",
+                  "name": "Environment/Sanitary Services"
+                },
+                {
+                  "code": "5 02 12 020",
+                  "name": "Janitorial Services"
+                },
+                {
+                  "code": "5 02 12 030",
+                  "name": "Security Services"
+                },
+                {
+                  "code": "5 02 12 990",
+                  "name": "Other General Services"
+                }
+              ]
+            },
+            {
+              "code": "5 02 13",
+              "name": "Repairs and Maintenance",
+              "children": [
+                {
+                  "code": "5 02 13 010",
+                  "name": "Repairs and Maintenance - Investment Property"
+                },
+                {
+                  "code": "5 02 13 020",
+                  "name": "Repairs and Maintenance - Land Improvements"
+                },
+                {
+                  "code": "5 02 13 030",
+                  "name": "Repairs and Maintenance - Infrastructure Assets"
+                },
+                {
+                  "code": "5 02 13 040",
+                  "name": "Repairs and Maintenance - Buildings and Other Structures"
+                },
+                {
+                  "code": "5 02 13 050",
+                  "name": "Repairs and Maintenance - Machinery and Equipment"
+                },
+                {
+                  "code": "5 02 13 060",
+                  "name": "Repairs and Maintenance - Transportation Equipment"
+                },
+                {
+                  "code": "5 02 13 070",
+                  "name": "Repairs and Maintenance - Furniture and Fixtures"
+                },
+                {
+                  "code": "5 02 13 080",
+                  "name": "Repairs and Maintenance - Leased Assets"
+                },
+                {
+                  "code": "5 02 13 090",
+                  "name": "Repairs and Maintenance - Leased Assets Improvements"
+                },
+                {
+                  "code": "5 02 13 990",
+                  "name": "Repairs and Maintenance - Other Property, Plant and Equipment"
+                }
+              ]
+            },
+            {
+              "code": "5 02 14",
+              "name": "Financial Assistance/Subsidy",
+              "children": [
+                {
+                  "code": "5 02 14 020",
+                  "name": "Subsidy to NGAs"
+                },
+                {
+                  "code": "5 02 14 030",
+                  "name": "Subsidy to Other Local Government Units"
+                },
+                {
+                  "code": "5 02 14 060",
+                  "name": "Subsidy to Other Funds"
+                },
+                {
+                  "code": "5 02 14 070",
+                  "name": "Subsidy to General Fund Proper/Special Accounts"
+                },
+                {
+                  "code": "5 02 14 080",
+                  "name": "Subsidy to Local Economic Enterprises"
+                },
+                {
+                  "code": "5 02 14 990",
+                  "name": "Subsidies - Others"
+                }
+              ]
+            },
+            {
+              "code": "5 02 15",
+              "name": "Transfers",
+              "children": [
+                {
+                  "code": "5 02 15 010",
+                  "name": "Transfers of Unspent Current Year DRRM Funds to the Trust Funds"
+                },
+                {
+                  "code": "5 02 15 020",
+                  "name": "Transfers for Project Equity Share /LGU Counterpart"
+                }
+              ]
+            },
+            {
+              "code": "5 02 16",
+              "name": "Taxes, Insurance Premiums and Other Fees",
+              "children": [
+                {
+                  "code": "5 02 16 010",
+                  "name": "Taxes, Duties and Licenses"
+                },
+                {
+                  "code": "5 02 16 020",
+                  "name": "Fidelity Bond Premiums"
+                },
+                {
+                  "code": "5 02 16 030",
+                  "name": "Insurance Expenses"
+                }
+              ]
+            },
+            {
+              "code": "5 02 99",
+              "name": "Other Maintenance and Operating Expenses",
+              "children": [
+                {
+                  "code": "5 02 99 010",
+                  "name": "Advertising Expenses"
+                },
+                {
+                  "code": "5 02 99 020",
+                  "name": "Printing and Publication Expenses"
+                },
+                {
+                  "code": "5 02 99 030",
+                  "name": "Representation Expenses"
+                },
+                {
+                  "code": "5 02 99 040",
+                  "name": "Transportation and Delivery Expenses"
+                },
+                {
+                  "code": "5 02 99 050",
+                  "name": "Rent Expenses"
+                },
+                {
+                  "code": "5 02 99 060",
+                  "name": "Membership Dues and Contributions to Organizations"
+                },
+                {
+                  "code": "5 02 99 070",
+                  "name": "Subscription Expenses"
+                },
+                {
+                  "code": "5 02 99 080",
+                  "name": "Donations"
+                },
+                {
+                  "code": "5 02 99 990",
+                  "name": "Other Maintenance and Operating Expenses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "5 03",
+          "name": "Financial Expenses",
+          "children": [
+            {
+              "code": "5 03 01",
+              "name": "Financial Expenses",
+              "children": [
+                {
+                  "code": "5 03 01 010",
+                  "name": "Management Supervision/Trusteeship Fees"
+                },
+                {
+                  "code": "5 03 01 020",
+                  "name": "Interest Expenses"
+                },
+                {
+                  "code": "5 03 01 030",
+                  "name": "Guarantee Fees"
+                },
+                {
+                  "code": "5 03 01 040",
+                  "name": "Bank Charges"
+                },
+                {
+                  "code": "5 03 01 050",
+                  "name": "Commitment Fees"
+                },
+                {
+                  "code": "5 03 01 990",
+                  "name": "Other Financial Charges"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "5 04",
+          "name": "Direct Costs",
+          "children": [
+            {
+              "code": "5 04 01",
+              "name": "Cost of Goods Manufactured",
+              "children": [
+                {
+                  "code": "5 04 01 010",
+                  "name": "Direct Materials"
+                },
+                {
+                  "code": "5 04 01 020",
+                  "name": "Direct Labor"
+                },
+                {
+                  "code": "5 04 01 030",
+                  "name": "Manufacturing Overhead"
+                }
+              ]
+            },
+            {
+              "code": "5 04 02",
+              "name": "Cost of Sales",
+              "children": [
+                {
+                  "code": "5 04 02 010",
+                  "name": "Cost of Sales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "5 05",
+          "name": "Non-Cash Expenses",
+          "children": [
+            {
+              "code": "5 05 01",
+              "name": "Depreciation",
+              "children": [
+                {
+                  "code": "5 05 01 010",
+                  "name": "Depreciation - Investment Property"
+                },
+                {
+                  "code": "5 05 01 020",
+                  "name": "Depreciation - Land Improvements"
+                },
+                {
+                  "code": "5 05 01 030",
+                  "name": "Depreciation - Infrastructure Assets"
+                },
+                {
+                  "code": "5 05 01 040",
+                  "name": "Depreciation - Buildings and Other Structures"
+                },
+                {
+                  "code": "5 05 01 050",
+                  "name": "Depreciation - Machinery and Equipment"
+                },
+                {
+                  "code": "5 05 01 060",
+                  "name": "Depreciation - Transportation Equipment"
+                },
+                {
+                  "code": "5 05 01 070",
+                  "name": "Depreciation - Furniture, Fixtures and Books"
+                },
+                {
+                  "code": "5 05 01 080",
+                  "name": "Depreciation - Leased Assets"
+                },
+                {
+                  "code": "5 05 01 090",
+                  "name": "Depreciation - Leased Assets Improvements"
+                },
+                {
+                  "code": "5 05 01 100",
+                  "name": "Depreciation -Service Concession Assets"
+                },
+                {
+                  "code": "5 05 01 990",
+                  "name": "Depreciation - Other Property, Plant and Equipment"
+                }
+              ]
+            },
+            {
+              "code": "5 05 02",
+              "name": "Amortization",
+              "children": [
+                {
+                  "code": "5 05 02 010",
+                  "name": "Amortization - Intangible Assets"
+                }
+              ]
+            },
+            {
+              "code": "5 05 03",
+              "name": "Impairment Loss",
+              "children": [
+                {
+                  "code": "5 05 03 010",
+                  "name": "Impairment Loss - Financial Assets Held to Maturity"
+                },
+                {
+                  "code": "5 05 03 020",
+                  "name": "Impairment Loss - Loans and Receivables"
+                },
+                {
+                  "code": "5 05 03 030",
+                  "name": "Impairment Loss - Lease Receivables"
+                },
+                {
+                  "code": "5 05 03 040",
+                  "name": "Impairment Loss - Investments in GOCCs"
+                },
+                {
+                  "code": "5 05 03 050",
+                  "name": "Impairment Loss - Investments in Joint Venture"
+                },
+                {
+                  "code": "5 05 03 060",
+                  "name": "Impairment Loss - Other Receivables"
+                },
+                {
+                  "code": "5 05 03 070",
+                  "name": "Impairment Loss - Inventories"
+                },
+                {
+                  "code": "5 05 03 080",
+                  "name": "Impairment Loss - Investment Property"
+                },
+                {
+                  "code": "5 05 03 090",
+                  "name": "Impairment Loss - Property, Plant and Equipment"
+                },
+                {
+                  "code": "5 05 03 100",
+                  "name": "Impairment Loss - Intangible Assets"
+                }
+              ]
+            },
+            {
+              "code": "5 05 04",
+              "name": "Losses",
+              "children": [
+                {
+                  "code": "5 05 04 010",
+                  "name": "Loss on Foreign Exchange (FOREX)"
+                },
+                {
+                  "code": "5 05 04 020",
+                  "name": "Loss on Sale of Investments"
+                },
+                {
+                  "code": "5 05 04 030",
+                  "name": "Loss on Sale of Investment Property"
+                },
+                {
+                  "code": "5 05 04 040",
+                  "name": "Loss on Sale of Propery, Plant and Equipment"
+                },
+                {
+                  "code": "5 05 04 050",
+                  "name": "Loss on Sale of Biological Assets"
+                },
+                {
+                  "code": "5 05 04 060",
+                  "name": "Loss on Sale of Intangible Assets"
+                },
+                {
+                  "code": "5 05 04 070",
+                  "name": "Loss on Sale of Assets"
+                },
+                {
+                  "code": "5 05 04 080",
+                  "name": "Loss on Initial Recognition of Biological Assets"
+                },
+                {
+                  "code": "5 05 04 090",
+                  "name": "Loss of Assets"
+                },
+                {
+                  "code": "5 05 04 100",
+                  "name": "Loss on Guaranty"
+                },
+                {
+                  "code": "5 05 04 990",
+                  "name": "Other Losses"
+                }
+              ]
+            },
+            {
+              "code": "5 05 05",
+              "name": "Grants",
+              "children": [
+                {
+                  "code": "5 05 05 010",
+                  "name": "Grants for Concessionary loans"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
